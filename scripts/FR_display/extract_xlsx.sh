@@ -1,0 +1,1 @@
+python3 extract_to_exel.py --method_path /workspace/PowerGS/models/ --output_excel fr_display.xlsx
