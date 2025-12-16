@@ -3,6 +3,5 @@
 ## 📄 [Paper](https://arxiv.org/abs/2509.21702) 🌐 [Project page](https://powergs.netlify.app/)
 
 
-### We are currently organizing the code and documentation 🧹📦
-### The code and license will be released before December ⏳✨
-
+### We are currently waiting for Meta’s internal review for the code release. 🧹📦
+### We are actively following up with the review teams, and will release the code as soon as the review is approved. The release is expected within about one week. ⏳✨
