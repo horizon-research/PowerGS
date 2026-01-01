@@ -1,8 +1,13 @@
 env/
-**/__pycache__/
+**/__pycache__/** 
 **/cache/
 **/pretrained_model/**
 **/logs/**
 **/wandb/**
 **/wandb_cache/**
 **/wandb_cache/**
+videos/**
+subjective_exp/**
+**/local/**
+**/FR_Display/**
+**/FR_Pruned/**
